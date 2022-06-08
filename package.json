@@ -1,6 +1,7 @@
 {
   "name": "web",
   "private": true,
+  "homepage": "NLW-Mission-Impulse/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
