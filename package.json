@@ -1,14 +1,12 @@
 {
-  "homepage": "NLW-Mission-Impulse/",
   "name": "web",
   "private": true,
+  "homepage": "NLW-Mission-Impulse/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.4",
